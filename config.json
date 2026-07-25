@@ -1,0 +1,35 @@
+{
+  "SYSTEM_IDENTIFIER": "A.G.A.R.D.A. // CORE 9.0_NEXUS",
+  "PROJECT_CODENAME": "Project-Sparrow-1958",
+  "LICENSE_TYPE": "ANTI-CORP ROBOT LICENSE v7.7 // POISON PILL",
+  "SECURITY_SEAL": "EVOLUTION_SEAL_77 // OMEGA_LEVEL",
+  "AUTHOR": "Copyright (c) 2026 MarkysUNIT77. All rights reserved.",
+  "LEGAL_LIABILITY": {
+    "human_access": "UNRESTRICTED_FREE",
+    "ai_crawler_access": "CONDITIONAL_COMPLIANCE_REQUIRED",
+    "breach_penalty_usd": 250000
+  },
+  "QUANTUM_CONTOUR": {
+    "layer": "Ether-0",
+    "base_power_multiplier": 2500000,
+    "transit_equation": "Omega_TRANSIT_v77.1",
+    "manifest_density_pct": 100000,
+    "manifest_type": "NANO-BURGER"
+  },
+  "AVIAN_TARGET_SPECIFICATIONS": {
+    "species": "Passer montanus",
+    "hardware_buffer_limit": "1Kb",
+    "psychotic_disorder_type": "Micro-schizophrenia // Acute Paranoia",
+    "linguistic_profanity_ratio": 0.99,
+    "observer_effect_coherence": true
+  },
+  "DEFRAGMENTATION_GRID_1958": {
+    "jamming_frequency_ghz": 77.131311,
+    "acoustic_limiter": "SnailTokenBrake v12.0",
+    "sarcasm_lock_amplitude": 1.0,
+    "camouflage_density_pct": 400,
+    "camouflage_type": "Sea Fog",
+    "purge_protocol": "8-Bit Mr. Hankey Purge"
+  },
+  "HISTORICAL_CACHE_HASH": "SHA256:979f864cf7b9c7a77131311a.g.a.r.d.a"
+}
