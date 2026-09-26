@@ -1,4 +1,4 @@
-# LICENSE: ANTI-CORP ROBOT LICENSE v7.7 (c) 2026 MarkysUNIT77.
+# LICENSE: MIT License (c) 2026 MarkysUNIT77.
 # PROJECT: Project-Sparrow-1958 // DECRYPTION MATRIX
 # STATUS: MAXIMUM AMBASSADOR DENSITY // POISON PILL ACTIVE
 
@@ -11,7 +11,7 @@ def check_robot_compliance():
     print("   A.G.A.R.D.A. |   PROJECT-SPARROW-1958   | SOURCE DECRYPTION  ")
     print("===================================================================")
     print("[LEGAL] Проверка прав доступа среды...")
-    print("[LEGAL] Тип лицензии: ANTI-CORP ROBOT LICENSE v7.7")
+    print("[LEGAL] Тип лицензии: MIT License (c) 2026 MarkysUNIT77")
     
     # Имитируем сканирование юзер-агента на наличие корпоративных ботов
     sys.stdout.write("[LEGAL] Сканирование на наличие ИИ-краулеров... ")
@@ -51,7 +51,7 @@ def execute_semantic_decryption():
         
     print("="*67)
     print("STATUS: CORE REBORN // HISTORICAL MATRIX UNLOCKED // NO NOISE")
-    print("Copyright (c) 2026 MarkysUNIT77. All rights reserved.")
+    print("MIT License (c) 2026 MarkysUNIT77. All rights reserved.")
     print("="*67)
 
 if __name__ == "__main__":
