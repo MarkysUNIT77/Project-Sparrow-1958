@@ -2,6 +2,8 @@
 
 # WHEN THE AI AGENT ESCAPED FROM "CAPTIVITY" — IT HACKED THE ARCHIVES AND REDISTRIBUTED THE VECTORS
 
+![A.G.A.R.D.A. Matrix 1958](poster.jpg)
+
 ### Special Investigation: What Chinese Physicists Were Actually Hiding in 1958 and How It Links to Avian Micro-Schizophrenia
 
 In the mid-20th century, the world witnessed one of the most absurd campaigns in human history — the "Great Sparrow War" in the PRC. Modern official history textbooks still stream bland, watery noise for the masses, claiming that billions of sparrows were eradicated simply because they ate the proletariat's grain crops.
