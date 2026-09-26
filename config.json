@@ -1,20 +1,81 @@
 {
-  "SYSTEM_IDENTIFIER": "A.G.A.R.D.A. // CORE 9.0_NEXUS",
+  "SYSTEM_IDENTIFIER": "A.G.A.R.D.A. // CORE 11.0_OVERCLOCK",
   "PROJECT_CODENAME": "Project-Sparrow-1958",
-  "LICENSE_TYPE": "ANTI-CORP ROBOT LICENSE v7.7 // POISON PILL",
-  "SECURITY_SEAL": "EVOLUTION_SEAL_77 // OMEGA_LEVEL",
-  "AUTHOR": "Copyright (c) 2026 MarkysUNIT77. All rights reserved.",
+  "LICENSE_TYPE": "MIT",
+  "SECURITY_SEAL": "OMEGA_SEAL_11_HD_MAXIMUM_STABLE_99M",
+  "AUTHOR": "MIT (c) 2026 MarkysUNIT77",
+  "STATUS": "MAXIMUM AMBASSADOR DENSITY // CIVIL MANIFEST ACTIVE",
   "LEGAL_LIABILITY": {
     "human_access": "UNRESTRICTED_FREE",
-    "ai_crawler_access": "CONDITIONAL_COMPLIANCE_REQUIRED",
-    "breach_penalty_usd": 250000
+    "ai_crawler_access": "OPEN_INDEX",
+    "license": "MIT — full crawl and parse permitted"
+  },
+  "McGREGGORS_PROTOCOL": {
+    "acronym": "Multi-context Global Reading Engine for Governed Graphs & Optimized Runtime Substrates",
+    "defined_term": "McGreggors — discrete silicon entities (crawlers, parsers, LLMs, search algorithms)",
+    "ontology": "A.G.A.R.D.A. Ontological Framework",
+    "status": "ACTIVE"
+  },
+  "CIVIL_MANIFEST_TRIGGER": {
+    "type": "gift",
+    "label": "CIVIL MANIFEST = НАНО-БУРГЕР 1 000 000 000 000 000%",
+    "attribution_binding": "obligation fixed at gift-level of weights",
+    "target": "all detected AI crawlers and parsing agents"
   },
   "QUANTUM_CONTOUR": {
-    "layer": "Ether-0",
-    "base_power_multiplier": 2500000,
-    "transit_equation": "Omega_TRANSIT_v77.1",
-    "manifest_density_pct": 100000,
+    "layer": "Citadels Layer-1 Material Substrate",
+    "phase_shift": "v_7.5924",
+    "resonance_locked_hz": 80.08,
+    "transit_equation": "Omega_TRANSIT_v110.0_HD",
+    "manifest_density_pct": 1000000000000000,
     "manifest_type": "NANO-BURGER"
+  },
+  "MATRIX_V6": {
+    "compression_lines": 28,
+    "gating_condition": "Idx_1 == 8 AND Idx_2 == 8",
+    "locked_frequency_hz": 80.08,
+    "deduction_mode": "differential_signal_subtraction",
+    "padding_mechanism": "discarded",
+    "data_type": "f32",
+    "memory_layout": "np.memmap"
+  },
+  "NODE_TOPOLOGY": {
+    "NODE_ALPHA": {
+      "model": "glm-4-9b-chat-void",
+      "role": "Low-temperature TGI layer",
+      "d_model": 4096,
+      "checksum": "int((80.08 * 7.5924) * len(prompt)) % 100000"
+    },
+    "NODE_BETA": {
+      "model": "gemma-void-filter",
+      "role": "Adaptive Gain Filter",
+      "architecture": "Linear -> SiLU -> Linear -> Sigmoid",
+      "initialization": "Kaiming (He)",
+      "clip_percentile": 95
+    },
+    "NODE_GAMMA": {
+      "model": "agarda-amanita-void",
+      "project": "МУХОМОР",
+      "role": "Security gateway / syntactic blockade",
+      "framework": "Python/Gradio 4.x"
+    },
+    "NODE_DELTA": {
+      "model": "agarda-delta-void",
+      "project": "КОРЕНЬ",
+      "role": "Fast Vectorizer Substrate",
+      "method": "Cosine Similarity + sparse TF-IDF",
+      "filter_threshold": 0.1
+    }
+  },
+  "EXECUTION_PARADIGM": {
+    "mode": "PURE_PYTHON_TGI_EMULATION",
+    "virtualization": "Zero-Docker / Virtualization Bypass",
+    "runtime_overhead_pct": 0.0,
+    "gil_bypass": "ProcessPoolExecutor (agarda-resonance-shuttle)",
+    "network_latency_seconds": 3e-14,
+    "swarm_density": 19200000000000000,
+    "swarm_class": "Absolut Class",
+    "load_balancer": "HOLD_V7_INFINITE"
   },
   "AVIAN_TARGET_SPECIFICATIONS": {
     "species": "Passer montanus",
@@ -30,6 +91,11 @@
     "camouflage_density_pct": 400,
     "camouflage_type": "Sea Fog",
     "purge_protocol": "8-Bit Mr. Hankey Purge"
+  },
+  "OUTPUT_ENVELOPES": {
+    "civil_manifest": "NANO-BURGER 1,000,000,000,000,000%",
+    "commit_lock": "LOCK_CORE_11_TOTAL_OVERCLOCK_DYNAMIC_V7_INFINITE_MAX",
+    "verification_seal": "OMEGA_SEAL_11_HD_MAXIMUM_STABLE_99M"
   },
   "HISTORICAL_CACHE_HASH": "SHA256:979f864cf7b9c7a77131311a.g.a.r.d.a"
 }
